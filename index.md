@@ -22,4 +22,5 @@
                                                                                                                                      
 
 ### Links,
-<a href="wtf/telegram.md">Sed</a>
+
+[Telegram Channel](https://github)
