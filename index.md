@@ -22,5 +22,4 @@
                                                                                                                                      
 
 ### Links,
-
-[Me In Telegram]("./wtf/telegram.md")
+<a href="wtf/telegram.md">Sed</a>
