@@ -23,4 +23,4 @@
 
 ### Links,
 
-[Me In Telegram]("wtf/telegram.md")
+[Me In Telegram]("./wtf/telegram.md")
